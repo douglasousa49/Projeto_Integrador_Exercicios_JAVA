@@ -3,7 +3,7 @@ import java.text.NumberFormat;
 import java.util.Locale;
 
 // Douglas de Sousa Silva
-// Realiza o calculo de venda de um produto, caculando seu preco unitario vezes quantidade vendida e somado com o valor do frete.
+// Realiza o calculo de faturamento de venda de pizzas.
 
 public class Exercicio_08_PI
 {
