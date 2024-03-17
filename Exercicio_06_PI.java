@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 // Exercicio 6, Projeto Integrador
+// Calcula o tempo em minutos gasto em uma viagem de avião em Km/h com sua distancia em Km
 // Douglas Sousa
 // Adrian Sousa
 // Alex Dutra
