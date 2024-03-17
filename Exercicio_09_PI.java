@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // Douglas Sousa
-// Calcula a area quadrada de um estacionamento para um predio, 1 vaga de 10m2 por AP.
+// Calcula o volume de uma esfera em cm3.
 
 public class Exercicio_09_PI {
   public static void main(String[] args) {
