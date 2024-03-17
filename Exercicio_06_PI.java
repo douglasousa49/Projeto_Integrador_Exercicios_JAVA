@@ -6,7 +6,7 @@ import java.util.Scanner;
 // Alex Dutra
 
 public class Exercicio_06_PI {
-  public static void Exercicio_06_PI(String[] args) {
+  public static void main(String[] args) {
 
         Scanner ler = new Scanner(System.in);
 
